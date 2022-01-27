@@ -1,0 +1,41 @@
+/* Class --> .  text-red {} */
+/* id --> #text-red {}  */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(255, 255, 22);
+    text-align: center;
+    text-decoration: none;
+
+ 
+
+}
+a{
+    text-decoration: none;
+    color: rgb(3, 70, 3);
+    
+  
+}
+.menu{
+    list-style: none;
+    text-align: center;
+    
+}
+
+.menu li{
+    display: inline;
+}
+
+h2{
+    color: rgb(8, 77, 8);
+    text-align: center;
+}
+.image-li {
+    width: 150px;
+    height: 220px;
+    margin-left: 680px;
+
+}
